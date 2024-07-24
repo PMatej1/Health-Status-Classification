@@ -32,3 +32,5 @@ Ovaj projekat koristi dataset koji sadrži informacije o određenom broju osoba 
    ```bash
    pip install -r requirements.txt
 
+### Autori
+- Matej Panić
