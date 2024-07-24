@@ -22,7 +22,7 @@ Ovaj projekat koristi dataset koji sadrži informacije o određenom broju osoba 
 
 1. Klonirajte repozitorijum:
    ```bash
-   git clone https://github.com/yourusername/HealthStatusClassification.git
+   git clone https://github.com/PMatej1/Health-Status-Classification.git
    cd HealthStatusClassification
 2. Kreirajte i aktivirajte virtuelno okruženje:
    ```bash
